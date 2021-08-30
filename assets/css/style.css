@@ -1,0 +1,311 @@
+.index {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #000000;
+}
+
+.index h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 275%;
+    color: #FF0000;
+}
+
+.index p {
+	font-family: "Times New Roman", serif;
+ 	font-size : 200%;
+ 	color: white;
+}
+ 
+.index a { 
+	font-style: italic;
+	color: #FF6666;
+	text-decoration:none;
+}
+
+.index a:hover { 
+	font-style: normal;
+	color:#4B0082; 
+}
+
+
+
+.page2 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #333333;
+}
+
+.page2 h1 {
+	font-family: arial, verdana, sans-serif;
+ 	font-size : 225%;
+ 	color: #FFFFFF;
+}
+
+.page2 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #FFFFFF;
+}
+
+.page2 a {
+	font-style: italic;
+	color: #FFD700;
+	text-decoration:none;
+}
+
+.page2 a:hover { 
+	font-style: normal;
+	color:#4B0082; 
+}
+
+
+.page3 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #99CCCC;
+}
+
+.page3 h1 { 
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #990000;
+}
+
+.page3 p { 
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #990000;
+}
+
+.page3 a {
+	font-style: italic;
+	color: #336600;
+	text-decoration:none;
+}
+
+.page3 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+
+.page4 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #000033;
+}
+
+.page4 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #CCFF00;
+}
+
+.page4 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #CCFF00;
+}
+
+.page4 a {
+	font-style: italic;
+	color: #ff1493;
+	text-decoration:none;
+}
+
+.page4 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+
+.page5 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #FFFFE0;
+}
+
+.page5 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #006400;
+}
+
+.page5 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #006400;
+}
+
+.page5 a {
+	font-style: italic;
+	color: #008B8B;
+	text-decoration:none;
+}
+
+.page5 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page6 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #66FFFF;
+}
+
+.page6 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #660099;
+}
+
+.page6 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #660099;
+}
+
+.page6 a {
+	font-style: italic;
+	color: #336600;
+	text-decoration:none;
+}
+
+.page6 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page7 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #CCFFCC;
+}
+
+.page7 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #333333;
+}
+
+.page7 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #333333;
+}
+
+.page7 a {
+	font-style: italic;
+ 	color: #330066;
+ 	text-decoration:none;
+}
+
+.page7 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page8 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #330066;
+}
+
+.page8 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #CC0066;
+}
+
+.page8 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #CC0066;
+}
+
+.page8 a {
+	font-style: italic;
+	color: #FFFF00;
+	text-decoration:none;
+}
+
+.page8 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page9 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #FF6666;
+}
+
+.page9 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #6600CC;
+}
+
+.page9 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #6600CC;
+}
+
+.page9 a {
+	font-style: italic;
+	color: #00FF33;
+	text-decoration:none;
+}
+
+.page9 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page10 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #9999FF;
+}
+
+.page10 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 225%;
+	color: #000000;
+}
+
+.page10 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #000000;
+}
+
+.page10 a {
+	font-style: italic;
+	color: #FFCC99;
+	text-decoration:none;
+}
+
+.page10 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
